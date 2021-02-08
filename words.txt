@@ -1,0 +1,4 @@
+example
+devided
+by
+newline
